@@ -1,0 +1,1 @@
+# BIIL_MTB-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template
