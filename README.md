@@ -125,7 +125,7 @@ Document title: BILL_MTB-107 – Read potentiometer sensor value via an ADC HAL
 
  Version | Description of change
  ------- | ---------------------
- 1.0.0   | BILL_MTB-107 – Read potentiometer sensor value via an ADC HAL .
+ 1.0.0   | Lab 107: Learn basic GPIO control with PSoC 6, using ADC read potentiometer sensor value via HAL
 
 
 ## Authors:
